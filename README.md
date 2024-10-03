@@ -60,4 +60,4 @@ The dataset consists of 3998 records and 39 columns, covering information such a
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/graduate-salary-analysis.git
+   https://github.com/Maheendra-mj/EDA-Project---AMCAT-Data-Analysis.git
